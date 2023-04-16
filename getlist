@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Music",
+    "name": "Nhạc",
     "content1": "Dandelions",
     "content2": "Collide",
     "image": "1.png"
   },
   {
     "id": 2,
-    "name": "Book",
+    "name": "Sách",
     "content1": "Hiệu sách nhỏ ở Paris",
     "content2": "Rừng Nauy",
     "image": "2.png"
   },
   {
     "id": 3,
-    "name": "Film",
+    "name": "Phim",
     "content1": "Mở cửa ra nào Suzume",
     "content2": "Một mảnh",
     "image": "3.png"
